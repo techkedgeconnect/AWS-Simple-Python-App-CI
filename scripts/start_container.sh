@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Pull the Docker image from Docker Hub
+# Pull the Docker image from my Docker Hub
 docker pull techkedgec0nnect/techkedgeconnect-simple-python-flask-app
 
 # Run the Docker image as a container
